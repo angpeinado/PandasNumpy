@@ -10,5 +10,5 @@ Course is divided in the following sections:
 
 3. Pandas
 
-4. Visualización
+4. Visualización (Matplotlib, Seaborn)
 
